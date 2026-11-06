@@ -4,7 +4,6 @@
 
 I build payment systems that move money across borders. At Razorpay I integrate international payment methods — Alipay, WeChat Pay, ShopeePay and more — for merchants in Singapore, Malaysia and the UAE. Before that I built conversational-AI banking assistants and high-concurrency messaging backends.
 
-I'm also co-founder of **[76Softwares](https://76softwares.in)**, a studio building financing, online-ordering and medicine-delivery products for local small businesses.
 
 Off-keyboard, I build long-range FPV and high-altitude fixed-wing drones (INAV, ExpressLRS, OpenHD).
 
